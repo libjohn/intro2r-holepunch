@@ -7,6 +7,12 @@ John Little
 
 # README
 
+<!-- badges: start -->
+
+[![Launch Rstudio
+Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
+<!-- badges: end -->
+
 Testing
 [HolePunch](https://karthik.github.io/holepunch/)
 
