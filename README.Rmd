@@ -9,6 +9,11 @@ output: github_document
 README
 ======
 
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
+<!-- badges: end -->
+
+
 Testing [HolePunch](https://karthik.github.io/holepunch/)
 
 ```{r fig.height=.5, fig.width=1, out.width="30%", fig.cap="Shareable via Creative Commons"}

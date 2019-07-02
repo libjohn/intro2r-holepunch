@@ -1,0 +1,26 @@
+Type: Compendium
+Package: intro2r_n_holepnch test
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: testing how this compendium idea in service to
+    holepunch
+License: What license it uses
+Depends: 
+    data.table,
+    knitr,
+    microbenchmark,
+    profvis,
+    pryr,
+    rmarkdown,
+    sessioninfo,
+    skimr,
+    tidyverse,
+    xaringan
+Encoding: UTF-8
+LazyData: true
