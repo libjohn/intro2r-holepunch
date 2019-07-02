@@ -11,6 +11,8 @@ John Little
 
 [![Launch Rstudio
 Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
+
+[![DOI](https://zenodo.org/badge/194931705.svg)](https://zenodo.org/badge/latestdoi/194931705)
 <!-- badges: end -->
 
 Testing
