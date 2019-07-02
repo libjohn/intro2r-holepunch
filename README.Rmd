@@ -11,4 +11,9 @@ README
 
 Testing [HolePunch](https://karthik.github.io/holepunch/)
 
-Shareable via Creative Commons: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)<br> !["CC BY-NC"](images/by-nc.png){height=30px}
+```{r fig.height=.5, fig.width=1, out.width="30%", fig.cap="Shareable via Creative Commons"}
+knitr::include_graphics("images/by-nc.png")
+```
+
+
+[CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)

@@ -7,8 +7,13 @@ John Little
 
 # README
 
-Testing [HolePunch](https://karthik.github.io/holepunch/)
+Testing
+[HolePunch](https://karthik.github.io/holepunch/)
 
-Shareable via Creative Commons:
-[CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)<br> ![“CC
-BY-NC”](images/by-nc.png)
+``` r
+knitr::include_graphics("images/by-nc.png")
+```
+
+<img src="images/by-nc.png" title="Shareable via Creative Commons" alt="Shareable via Creative Commons" width="30%" />
+
+[CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
