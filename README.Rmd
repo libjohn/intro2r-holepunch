@@ -10,18 +10,19 @@ README
 ======
 
 <!-- badges: start -->
-[![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
+<!-- old badge.  ver 0.0.1  [![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio) -->
 
 <!-- [![DOI](https://zenodo.org/badge/194931705.svg)](https://zenodo.org/badge/latestdoi/194931705) -->
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3733847.svg)](https://doi.org/10.5281/zenodo.3733847)
 
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
 <!-- badges: end -->
 
 
 Testing [HolePunch](https://karthik.github.io/holepunch/)
 
-```{r fig.height=.5, fig.width=1, out.width="30%", fig.cap="Shareable via Creative Commons"}
+```{r echo=FALSE, fig.cap="Shareable", fig.height=.5, fig.width=1, out.width="30%"}
 knitr::include_graphics("images/by-nc.png")
 ```
 

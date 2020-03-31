@@ -9,28 +9,25 @@ John Little
 
 <!-- badges: start -->
 
-[![Launch Rstudio
-Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
+<!-- old badge.  ver 0.0.1  [![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio) -->
 
 <!-- [![DOI](https://zenodo.org/badge/194931705.svg)](https://zenodo.org/badge/latestdoi/194931705) -->
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3733847.svg)](https://doi.org/10.5281/zenodo.3733847)
 
+[![Launch Rstudio
+Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
 <!-- badges: end -->
 
 Testing [HolePunch](https://karthik.github.io/holepunch/)
 
-``` r
-knitr::include_graphics("images/by-nc.png")
-```
-
 <div class="figure">
 
-<img src="images/by-nc.png" alt="Shareable via Creative Commons" width="30%" />
+<img src="images/by-nc.png" alt="Shareable" width="30%" />
 
 <p class="caption">
 
-Shareable via Creative Commons
+Shareable
 
 </p>
 
