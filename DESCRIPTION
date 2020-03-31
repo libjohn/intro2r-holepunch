@@ -1,16 +1,17 @@
 Type: Compendium
 Package: intro2r_n_holepnch test
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.1
+Title: An Introduction to R and the holepunch compendium
+Version: 0.0.2
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "John",
+           family = "Little",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "John.Little@Duke.edu",
+           comment = c(ORCID = "0000-0002-3600-0972"))
 Description: testing how this compendium idea in service to
     holepunch
-License: What license it uses
+License: CC BY-NC 4.0
+URL: https://github.com/libjohn/intro2r-holepunch
 Depends: 
     data.table,
     knitr,
