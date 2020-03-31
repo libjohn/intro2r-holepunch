@@ -12,7 +12,10 @@ README
 <!-- badges: start -->
 [![Launch Rstudio Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/libjohn/intro2r-holepunch/master?urlpath=rstudio)
 
-[![DOI](https://zenodo.org/badge/194931705.svg)](https://zenodo.org/badge/latestdoi/194931705)
+<!-- [![DOI](https://zenodo.org/badge/194931705.svg)](https://zenodo.org/badge/latestdoi/194931705) -->
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3733847.svg)](https://doi.org/10.5281/zenodo.3733847)
+
 <!-- badges: end -->
 
 
